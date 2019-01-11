@@ -1,0 +1,15 @@
+.text-justify {
+    text-align: justify;
+}
+
+.justify-width-90 {
+    text-align: justify;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footnotes {
+    font-size: 0.8em;
+
+}
